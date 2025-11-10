@@ -3,6 +3,7 @@ void testb(void)
 {
 	print("testb");
 	print("testb");
+	print("testb");
 }
 
 int main(void)
